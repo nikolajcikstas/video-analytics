@@ -1,0 +1,49 @@
+openapi: 3.1.0
+info:
+  title: Video Analytics Python Backend Stub
+  version: 1.0.0
+servers:
+  - url: /api
+paths:
+  /detections:
+    get:
+      summary: List detections
+      responses:
+        "200":
+          description: Detection list
+  /detections/{id}:
+    get:
+      summary: Detection detail
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Detection detail
+  /system/messages:
+    get:
+      summary: System messages
+      responses:
+        "200":
+          description: System messages
+  /statistics:
+    get:
+      summary: Statistics
+      responses:
+        "200":
+          description: Statistics
+  /cameras:
+    get:
+      summary: Cameras
+      responses:
+        "200":
+          description: Cameras
+  /models:
+    get:
+      summary: Models
+      responses:
+        "200":
+          description: Models

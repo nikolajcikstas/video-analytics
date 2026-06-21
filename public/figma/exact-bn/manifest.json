@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "939:4752",
+    "type": "FRAME",
+    "name": "Cover",
+    "rect": {
+      "x": -4318,
+      "y": -541,
+      "w": 480,
+      "h": 270
+    },
+    "childCount": 1,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#00b053",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "001_BN_Cover_939-4752_480x270.png",
+    "pixelRect": {
+      "x": 0,
+      "y": 0,
+      "w": 480,
+      "h": 270
+    }
+  },
+  {
+    "id": "1869:1395",
+    "type": "FRAME",
+    "name": "Menu Option",
+    "rect": {
+      "x": 3304,
+      "y": -461,
+      "w": 386,
+      "h": 376
+    },
+    "childCount": 18,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "002_BN_Menu_Option_1869-1395_386x376.png",
+    "pixelRect": {
+      "x": 7622,
+      "y": 80,
+      "w": 386,
+      "h": 376
+    }
+  },
+  {
+    "id": "2815:2675",
+    "type": "FRAME",
+    "name": "Segmented Control",
+    "rect": {
+      "x": 1384,
+      "y": -164,
+      "w": 540,
+      "h": 328
+    },
+    "childCount": 10,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "003_BN_Segmented_Control_2815-2675_540x328.png",
+    "pixelRect": {
+      "x": 5702,
+      "y": 377,
+      "w": 540,
+      "h": 328
+    }
+  },
+  {
+    "id": "1281:3268",
+    "type": "FRAME",
+    "name": "Group 1",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 855,
+      "h": 304
+    },
+    "childCount": 2,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "004_BN_Group_1_1281-3268_855x304.png",
+    "pixelRect": {
+      "x": 4318,
+      "y": 541,
+      "w": 855,
+      "h": 304
+    }
+  },
+  {
+    "id": "1340:1400",
+    "type": "FRAME",
+    "name": "Frame 1",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 394,
+      "h": 288
+    },
+    "childCount": 12,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "005_BN_Frame_1_1340-1400_394x288.png",
+    "pixelRect": {
+      "x": 4318,
+      "y": 541,
+      "w": 394,
+      "h": 288
+    }
+  },
+  {
+    "id": "1883:3876",
+    "type": "SYMBOL",
+    "name": "Animated Demo",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "w": 1260,
+      "h": 446
+    },
+    "childCount": 1,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#001d6b",
+        "opacity": 0.15000000596046448,
+        "image": false
+      }
+    ],
+    "file": "006_BN_Animated_Demo_1883-3876_1260x446.png",
+    "pixelRect": {
+      "x": 4318,
+      "y": 541,
+      "w": 1260,
+      "h": 446
+    }
+  },
+  {
+    "id": "1281:3294",
+    "type": "FRAME",
+    "name": "Элементы",
+    "rect": {
+      "x": 144,
+      "y": 0,
+      "w": 711,
+      "h": 304
+    },
+    "childCount": 6,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#f5f5f5",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "007_BN_Элементы_1281-3294_711x304.png",
+    "pixelRect": {
+      "x": 4462,
+      "y": 541,
+      "w": 711,
+      "h": 304
+    }
+  },
+  {
+    "id": "1869:1506",
+    "type": "FRAME",
+    "name": "Menu",
+    "rect": {
+      "x": 3304,
+      "y": 51,
+      "w": 326,
+      "h": 312
+    },
+    "childCount": 2,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "008_BN_Menu_1869-1506_326x312.png",
+    "pixelRect": {
+      "x": 7622,
+      "y": 592,
+      "w": 326,
+      "h": 312
+    }
+  },
+  {
+    "id": "935:19151",
+    "type": "FRAME",
+    "name": "Styles",
+    "rect": {
+      "x": 16,
+      "y": 60,
+      "w": 394,
+      "h": 368
+    },
+    "childCount": 2,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "009_BN_Styles_935-19151_394x368.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 601,
+      "w": 394,
+      "h": 368
+    }
+  },
+  {
+    "id": "1878:2388",
+    "type": "INSTANCE",
+    "name": "Table",
+    "rect": {
+      "x": 64,
+      "y": 64,
+      "w": 1132,
+      "h": 318
+    },
+    "childCount": 0,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#001d6b",
+        "opacity": 0.15000000596046448,
+        "image": false
+      }
+    ],
+    "file": "010_BN_Table_1878-2388_1132x318.png",
+    "pixelRect": {
+      "x": 4382,
+      "y": 605,
+      "w": 1132,
+      "h": 318
+    }
+  },
+  {
+    "id": "2832:2664",
+    "type": "FRAME",
+    "name": "Tabs",
+    "rect": {
+      "x": 16,
+      "y": 69,
+      "w": 526,
+      "h": 253
+    },
+    "childCount": 14,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "011_BN_Tabs_2832-2664_526x253.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 610,
+      "w": 526,
+      "h": 253
+    }
+  },
+  {
+    "id": "778:4081",
+    "type": "FRAME",
+    "name": "Menu Option",
+    "rect": {
+      "x": 16,
+      "y": 80,
+      "w": 386,
+      "h": 376
+    },
+    "childCount": 18,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "012_BN_Menu_Option_778-4081_386x376.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 621,
+      "w": 386,
+      "h": 376
+    }
+  },
+  {
+    "id": "1281:1687",
+    "type": "FRAME",
+    "name": "Menu Option",
+    "rect": {
+      "x": 16,
+      "y": 80,
+      "w": 459,
+      "h": 376
+    },
+    "childCount": 18,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "013_BN_Menu_Option_1281-1687_459x376.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 621,
+      "w": 459,
+      "h": 376
+    }
+  },
+  {
+    "id": "1815:1254",
+    "type": "FRAME",
+    "name": "Frame",
+    "rect": {
+      "x": 16,
+      "y": 80,
+      "w": 520,
+      "h": 243
+    },
+    "childCount": 3,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "014_BN_Frame_1815-1254_520x243.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 621,
+      "w": 520,
+      "h": 243
+    }
+  },
+  {
+    "id": "1997:4164",
+    "type": "FRAME",
+    "name": "meta",
+    "rect": {
+      "x": 85,
+      "y": 171,
+      "w": 1531,
+      "h": 2130
+    },
+    "childCount": 52,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "015_BN_meta_1997-4164_1531x2130.png",
+    "pixelRect": {
+      "x": 4403,
+      "y": 712,
+      "w": 1531,
+      "h": 2130
+    }
+  },
+  {
+    "id": "1966:4818",
+    "type": "FRAME",
+    "name": "rules",
+    "rect": {
+      "x": 16,
+      "y": 212,
+      "w": 3089,
+      "h": 1680
+    },
+    "childCount": 52,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "016_BN_rules_1966-4818_3089x1680.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 753,
+      "w": 3089,
+      "h": 1680
+    }
+  },
+  {
+    "id": "1869:1308",
+    "type": "FRAME",
+    "name": "Header Cell",
+    "rect": {
+      "x": 16,
+      "y": 224,
+      "w": 1291,
+      "h": 464
+    },
+    "childCount": 64,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "017_BN_Header_Cell_1869-1308_1291x464.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 765,
+      "w": 1291,
+      "h": 464
+    }
+  },
+  {
+    "id": "1018:1507",
+    "type": "FRAME",
+    "name": "Dropdown",
+    "rect": {
+      "x": 1696,
+      "y": 230,
+      "w": 1459,
+      "h": 380
+    },
+    "childCount": 63,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "018_BN_Dropdown_1018-1507_1459x380.png",
+    "pixelRect": {
+      "x": 6014,
+      "y": 771,
+      "w": 1459,
+      "h": 380
+    }
+  },
+  {
+    "id": "669:28627",
+    "type": "FRAME",
+    "name": "Input • Dropdown",
+    "rect": {
+      "x": 225,
+      "y": 233,
+      "w": 1391,
+      "h": 2126
+    },
+    "childCount": 78,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "019_BN_Input_•_Dropdown_669-28627_1391x2126.png",
+    "pixelRect": {
+      "x": 4543,
+      "y": 774,
+      "w": 1391,
+      "h": 2126
+    }
+  },
+  {
+    "id": "669:26272",
+    "type": "FRAME",
+    "name": "Button",
+    "rect": {
+      "x": 105,
+      "y": 276,
+      "w": 3000,
+      "h": 928
+    },
+    "childCount": 140,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "020_BN_Button_669-26272_3000x928.png",
+    "pixelRect": {
+      "x": 4423,
+      "y": 817,
+      "w": 3000,
+      "h": 928
+    }
+  },
+  {
+    "id": "682:7976",
+    "type": "FRAME",
+    "name": "Checkbox",
+    "rect": {
+      "x": 16,
+      "y": 288,
+      "w": 972,
+      "h": 368
+    },
+    "childCount": 48,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "021_BN_Checkbox_682-7976_972x368.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 829,
+      "w": 972,
+      "h": 368
+    }
+  },
+  {
+    "id": "1281:2488",
+    "type": "FRAME",
+    "name": "Checkbox",
+    "rect": {
+      "x": 16,
+      "y": 292,
+      "w": 1037,
+      "h": 288
+    },
+    "childCount": 36,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "022_BN_Checkbox_1281-2488_1037x288.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 833,
+      "w": 1037,
+      "h": 288
+    }
+  },
+  {
+    "id": "1843:1793",
+    "type": "FRAME",
+    "name": "Segmented Control",
+    "rect": {
+      "x": 16,
+      "y": 377,
+      "w": 540,
+      "h": 328
+    },
+    "childCount": 10,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "023_BN_Segmented_Control_1843-1793_540x328.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 918,
+      "w": 540,
+      "h": 328
+    }
+  },
+  {
+    "id": "1933:3533",
+    "type": "INSTANCE",
+    "name": "Tooltip",
+    "rect": {
+      "x": 532,
+      "y": 424,
+      "w": 472,
+      "h": 220
+    },
+    "childCount": 0,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#002280",
+        "opacity": 0.029999999329447746,
+        "image": false
+      }
+    ],
+    "file": "024_BN_Tooltip_1933-3533_472x220.png",
+    "pixelRect": {
+      "x": 4850,
+      "y": 965,
+      "w": 472,
+      "h": 220
+    }
+  },
+  {
+    "id": "815:4436",
+    "type": "FRAME",
+    "name": "pin",
+    "rect": {
+      "x": 16,
+      "y": 468,
+      "w": 554,
+      "h": 302
+    },
+    "childCount": 12,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "025_BN_pin_815-4436_554x302.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 1009,
+      "w": 554,
+      "h": 302
+    }
+  },
+  {
+    "id": "815:8402",
+    "type": "FRAME",
+    "name": "Menu",
+    "rect": {
+      "x": 16,
+      "y": 592,
+      "w": 326,
+      "h": 312
+    },
+    "childCount": 2,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "026_BN_Menu_815-8402_326x312.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 1133,
+      "w": 326,
+      "h": 312
+    }
+  },
+  {
+    "id": "1281:1799",
+    "type": "FRAME",
+    "name": "Menu",
+    "rect": {
+      "x": 16,
+      "y": 592,
+      "w": 326,
+      "h": 312
+    },
+    "childCount": 2,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "027_BN_Menu_1281-1799_326x312.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 1133,
+      "w": 326,
+      "h": 312
+    }
+  },
+  {
+    "id": "1234:1091",
+    "type": "FRAME",
+    "name": "Icon Button",
+    "rect": {
+      "x": 16,
+      "y": 646,
+      "w": 1688,
+      "h": 287
+    },
+    "childCount": 35,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#ffffff",
+        "opacity": 1,
+        "image": false
+      },
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "028_BN_Icon_Button_1234-1091_1688x287.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 1187,
+      "w": 1688,
+      "h": 287
+    }
+  },
+  {
+    "id": "1281:1616",
+    "type": "FRAME",
+    "name": "Ghost Dropdown",
+    "rect": {
+      "x": 29,
+      "y": 1080,
+      "w": 326,
+      "h": 236
+    },
+    "childCount": 10,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "029_BN_Ghost_Dropdown_1281-1616_326x236.png",
+    "pixelRect": {
+      "x": 4347,
+      "y": 1621,
+      "w": 326,
+      "h": 236
+    }
+  },
+  {
+    "id": "669:28286",
+    "type": "FRAME",
+    "name": "Icon Button",
+    "rect": {
+      "x": 105,
+      "y": 1284,
+      "w": 2990,
+      "h": 288
+    },
+    "childCount": 49,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "030_BN_Icon_Button_669-28286_2990x288.png",
+    "pixelRect": {
+      "x": 4423,
+      "y": 1825,
+      "w": 2990,
+      "h": 288
+    }
+  },
+  {
+    "id": "1874:1532",
+    "type": "SYMBOL",
+    "name": "Table",
+    "rect": {
+      "x": 16,
+      "y": 1622,
+      "w": 1412,
+      "h": 471
+    },
+    "childCount": 17,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "031_BN_Table_1874-1532_1412x471.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 2163,
+      "w": 1412,
+      "h": 471
+    }
+  },
+  {
+    "id": "682:8460",
+    "type": "FRAME",
+    "name": "Action Button",
+    "rect": {
+      "x": 105,
+      "y": 1652,
+      "w": 2990,
+      "h": 240
+    },
+    "childCount": 30,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [
+      {
+        "type": "SOLID",
+        "color": "#9747ff",
+        "opacity": 1,
+        "image": false
+      }
+    ],
+    "file": "032_BN_Action_Button_682-8460_2990x240.png",
+    "pixelRect": {
+      "x": 4423,
+      "y": 2193,
+      "w": 2990,
+      "h": 240
+    }
+  },
+  {
+    "id": "1878:4179",
+    "type": "SYMBOL",
+    "name": "Table/Column-based",
+    "rect": {
+      "x": 7269,
+      "y": 1767,
+      "w": 1380,
+      "h": 440
+    },
+    "childCount": 10,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "033_BN_Table-Column-based_1878-4179_1380x440.png",
+    "pixelRect": {
+      "x": 11587,
+      "y": 2308,
+      "w": 1380,
+      "h": 440
+    }
+  },
+  {
+    "id": "1885:5433",
+    "type": "SYMBOL",
+    "name": "Table/Grid-based",
+    "rect": {
+      "x": 7269,
+      "y": 2287,
+      "w": 1380,
+      "h": 440
+    },
+    "childCount": 110,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "034_BN_Table-Grid-based_1885-5433_1380x440.png",
+    "pixelRect": {
+      "x": 11587,
+      "y": 2828,
+      "w": 1380,
+      "h": 440
+    }
+  },
+  {
+    "id": "1883:3877",
+    "type": "FRAME",
+    "name": "Animated Demo",
+    "rect": {
+      "x": 16,
+      "y": 2418,
+      "w": 1260,
+      "h": 446
+    },
+    "childCount": 1,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "035_BN_Animated_Demo_1883-3877_1260x446.png",
+    "pixelRect": {
+      "x": 4334,
+      "y": 2959,
+      "w": 1260,
+      "h": 446
+    }
+  },
+  {
+    "id": "2018:3784",
+    "type": "FRAME",
+    "name": "Example 1",
+    "rect": {
+      "x": 361,
+      "y": 3651,
+      "w": 308,
+      "h": 206
+    },
+    "childCount": 8,
+    "text": null,
+    "fontSize": null,
+    "font": null,
+    "fills": [],
+    "file": "036_BN_Example_1_2018-3784_308x206.png",
+    "pixelRect": {
+      "x": 4679,
+      "y": 4192,
+      "w": 308,
+      "h": 206
+    }
+  }
+]

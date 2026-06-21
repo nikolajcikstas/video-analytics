@@ -1,0 +1,31 @@
+{
+  "camera": {
+    "id": "cam-local-312",
+    "name": "Local PPE test camera",
+    "sourceType": "file",
+    "sourcePath": "runtime/videos/test-camera-source.mp4",
+    "loop": true,
+    "rtspUrl": null
+  },
+  "model": {
+    "id": "ppe_312_yolo12_l",
+    "name": "PPE 312 YOLO12 L",
+    "path": "runtime/models/PPE_312_yolo12_l.pt",
+    "task": "ppe_detection"
+  },
+  "detection": {
+    "modelId": "ppe_312_yolo12_l",
+    "cameraId": "cam-local-312",
+    "confidenceThreshold": 0.34,
+    "iouThreshold": 0.48,
+    "writeFrames": true,
+    "writeMode": "continuous",
+    "stopAfterFrames": null,
+    "restartOnEnd": true
+  },
+  "frames": {
+    "outputDir": "runtime/frames",
+    "filePattern": "cam-local-312_{timestamp}_{frame}.jpg",
+    "retention": "infinite"
+  }
+}

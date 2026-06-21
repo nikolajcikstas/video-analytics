@@ -1,0 +1,15 @@
+{
+  "id": "ppe_312_yolo12_l",
+  "title": "PPE 312 YOLO12 L",
+  "file": "runtime/models/PPE_312_yolo12_l.pt",
+  "type": "yolo",
+  "version": "yolo12_l",
+  "enabled": true,
+  "labels": [
+    "helmet",
+    "no_helmet",
+    "person",
+    "ppe",
+    "restricted_zone"
+  ]
+}
