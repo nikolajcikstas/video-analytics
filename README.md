@@ -1,4 +1,3 @@
-"# Video Analytics" 
 ---
 title: Video Analytics
 emoji: 📹
